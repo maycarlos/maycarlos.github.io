@@ -1,8 +1,6 @@
 title: Elmer's homepage
 description: Learning
 
-baseurl: ""
-url: "https://maycarlos.me"
 github_username: maycarlos
 
 remote_theme: riggraz/no-style-please
