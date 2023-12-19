@@ -1,4 +1,11 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Elmer's homepage
+description: Learning
 
+baseurl: ""
+url: "https://maycarlos.me"
+github_username: maycarlos
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light"
